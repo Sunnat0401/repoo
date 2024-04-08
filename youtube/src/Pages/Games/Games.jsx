@@ -10,7 +10,6 @@ const Games = () => {
             <div className="game-wrapper">
               <div className="game-saidbar">
               <SideBar/>
-              </div>
             <div className="game-products">
                       <div className="game-videos">
               <img className='game-user' src={logo} alt="user" />
