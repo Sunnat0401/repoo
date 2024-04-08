@@ -1,0 +1,11 @@
+.recommend-cards{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 5px ;
+}
+
+.recommend-img{
+    width: 330px;
+    height: 150px;
+}

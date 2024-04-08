@@ -1,0 +1,15 @@
+.like-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.like-videos{
+width:1000px ;
+height: 1000px;
+height: 580px;
+margin: 10px;
+}
+.like-video iframe{
+    padding: 10px 0;
+    width: 100%;
+    height: 550px;
+}

@@ -1,0 +1,15 @@
+.music-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.music-videos{
+width:1000px ;
+height: 1000px;
+height: 580px;
+margin: 10px;
+}
+.music-video iframe{
+    padding: 10px 0;
+    width: 100%;
+    height: 550px;
+}

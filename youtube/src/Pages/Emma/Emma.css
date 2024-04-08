@@ -1,0 +1,21 @@
+
+
+.emma-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.emma-saidbar{
+    width: 20%;
+}
+.emma-products{
+    width: 80%;
+}
+.emma-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.home-imgs{
+    width: 260px;
+    height: 150px;
+    padding: 5px;
+}

@@ -1,0 +1,24 @@
+.food-top{
+    display: flex;
+    align-items: center;
+    padding: 7px;
+}
+.footer-logo{
+    width: 30px;
+    height: 30px;
+}
+.footer-title{
+    padding: 0 10px;
+}
+.footer-text{
+    color: rgb(126, 146, 146);
+}
+.food-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.food-image{
+    width: 160px;
+    height: 100px;
+}

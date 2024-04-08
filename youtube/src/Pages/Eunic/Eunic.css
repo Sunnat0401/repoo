@@ -1,0 +1,21 @@
+
+
+.eunic-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.eunic-saidbar{
+    width: 20%;
+}
+.eunic-products{
+    width: 80%;
+}
+.eunic-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.eunic-imgs{
+    width: 220px;
+    height: 150px;
+    padding: 5px;
+}

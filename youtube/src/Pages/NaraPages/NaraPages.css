@@ -1,0 +1,20 @@
+
+.nara-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.nara-saidbar{
+    width: 20%;
+}
+.nara-products{
+    width: 80%;
+}
+.nara-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.nara-imgs{
+    width: 220px;
+    height: 150px;
+    padding: 5px;
+}

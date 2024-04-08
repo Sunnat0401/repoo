@@ -1,0 +1,20 @@
+
+.gussipage-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.gussipage-saidbar{
+    width: 20%;
+}
+.gussipage-products{
+    width: 80%;
+}
+.gussipage-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.gussipage-imgs{
+    width: 220px;
+    height: 150px;
+    padding: 5px;
+}

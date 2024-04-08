@@ -1,0 +1,21 @@
+
+
+.beah-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.beah-saidbar{
+    width: 20%;
+}
+.beah-products{
+    width: 80%;
+}
+.beah-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.beah-imgs{
+    width: 220px;
+    height: 150px;
+    padding: 5px;
+}

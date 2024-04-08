@@ -1,0 +1,17 @@
+.sidebar .wrapper{
+    padding: 15px 15px;
+} 
+.sidebar-lis{
+    line-height: 27px;
+}
+.sidebar-img{
+}
+
+.sidebar-subscriptions{
+    line-height: 27px;
+}
+.sidebar-text{
+    padding:3px 0px 3px  10px;
+    font-weight: bold;
+    font-size: 19px;
+}

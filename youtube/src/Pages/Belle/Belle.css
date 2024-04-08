@@ -1,0 +1,22 @@
+
+
+
+.belle-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.belle-saidbar{
+    width: 20%;
+}
+.belle-products{
+    width: 80%;
+}
+.belle-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.belle-imgs{
+    width: 220px;
+    height: 150px;
+    padding: 5px;
+}
