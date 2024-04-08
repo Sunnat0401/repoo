@@ -20,6 +20,7 @@ const Games = () => {
             </div>
         </div>
     </div>
+    </div>
   )
 }
 
